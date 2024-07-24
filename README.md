@@ -35,7 +35,7 @@ To set up the project locally, follow these steps:
 
 ### Clone the repository
 bash
-   git clone https://github.com/your-username/school-website.git
+   git clone https://github.com/saurabhmaurya1309/School_website-assignment.git
 
 
 ### Change directory
